@@ -5,7 +5,7 @@ This is an online job portal built using the MERN stack. It allows users to sign
 
 ## Features
 
-- ###Title Page: The main entry point of the application.
+- ### Title Page: The main entry point of the application.
   
   ![Title Page](https://github.com/alizazahid11/online-job-portal/blob/main/assets/1.PNG?raw=true)
 
