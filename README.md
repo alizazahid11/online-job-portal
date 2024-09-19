@@ -15,10 +15,10 @@ This is an online job portal built using the MERN stack. It allows users to sign
     ![Signup/Login Page](https://github.com/alizazahid11/online-job-portal/blob/main/assets/11.PNG?raw=true)
 
   - ### Category Selection: Users can choose to sign up as either:
-    - **Job Seeker**: Redirected to set up a job seeker profile.
+    - #### Job Seeker: Redirected to set up a job seeker profile.
       
       ![Job Seeker Profile Setup](https://github.com/alizazahid11/online-job-portal/blob/main/assets/3.PNG?raw=true)
-    - ### Employer: Redirected to set up an employer profile.
+    - #### Employer: Redirected to set up an employer profile.
       
       ![Employer Profile Setup](https://github.com/alizazahid11/online-job-portal/blob/main/assets/8.PNG?raw=true)
 
