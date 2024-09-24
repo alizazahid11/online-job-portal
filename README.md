@@ -55,12 +55,12 @@ This is an online job portal built using the MERN stack. It allows users to sign
    ```bash
    cd path/to/frontend
    npm install
-   npm init
    npm start
 ### Backend Setup 
 2. Navigate to the backend directory:
    ```bash
    cd path/to/backend
+   npm init
    npm install
    npm i nodemon
    npx nodemon index.js
