@@ -23,7 +23,7 @@ This is an online job portal built using the MERN stack. It allows users to sign
       ![Employer Profile Setup](https://github.com/alizazahid11/online-job-portal/blob/main/assets/8.PNG?raw=true)
 
 - ### User Dashboard:
-  - ### Job Seeker Dashboard: View job listings, apply for jobs, and update profiles.
+  - #### Job Seeker Dashboard: View job listings, apply for jobs, and update profiles.
     
     ![Job Seeker Dashboard](https://github.com/alizazahid11/online-job-portal/blob/main/assets/4.PNG?raw=true)
     - #### Job Listings: Browse and view available job postings.
